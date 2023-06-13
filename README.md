@@ -1,2 +1,2 @@
 # image-1
-images from 1 to 71.
+images from 1 to 56.
